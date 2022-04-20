@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+h1 {
+	color: orange;
+}
+
+div {
+	text-align: left;
+}
+
+table {
+	border: 15px solid orange;
+	width: 25%;
+	border-collapse: collapse;
+}
+
+thead {
+	text-align: left;
+}
+
+th, tr {
+	border-bottom: 3px solid orange;
+}
+
+th, tr, td {
+	padding: 5px 5px;
+}
